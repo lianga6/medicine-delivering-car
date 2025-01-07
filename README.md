@@ -5,10 +5,6 @@
 ## 演示
 [观看视频](https://github.com/lianga6/medicine_car1/blob/main/car.mp4 "点我观看演示视频")
 
-<video controls>
-  <source src="https://github.com/lianga6/medicine_car1/blob/main/car.mp4 " type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
